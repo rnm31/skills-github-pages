@@ -1,5 +1,7 @@
 ---
-title: Welcome to my blog!，istest
 theme: minima
+title: rnm31's personal blog
+description: This is where I share cool stuff about my life
+author: rnm31
 ---
 
